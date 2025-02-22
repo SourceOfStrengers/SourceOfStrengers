@@ -1,30 +1,25 @@
 ```md
-#**Hi there, I'm Aayush Shakyawar 👋**
+# **Hi there, I'm [Your Name] 👋**
 
-![Github Image]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbCLbVac5owpOnAdAfjqJqvuvValr5oG8Hl2BCI0Xj1CRB6YZXTMLP8xT6yRCuArfwGM&usqp=CAU))
+![Header Image](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## **🔹 Introduction**
-Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer**
-passionate about cybersecurity, ethical hacking, and secure software development. With years of experience in
-cybersecurity and backend development, I have a deep understanding of network security, ethical hacking
-methodologies, and secure application development. I specialize in **offensive security**, conducting in-depth
- vulnerability assessments, penetration testing, and exploit development to secure applications and networks
-from real-world threats. My expertise spans across multiple programming languages and security tools, allowing
-me to create efficient, scalable, and secure software solutions. I am always eager to contribute to open-source-
-projects, share security knowledge, and collaborate with other developers and security researchers. Whether
-it's **web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques
-to enhance security and performance.
+Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer** passionate about cybersecurity, ethical hacking, and secure software development. With years of experience in cybersecurity and backend development, I have a deep understanding of network security, ethical hacking methodologies, and secure application development.
+
+I specialize in **offensive security**, conducting in-depth vulnerability assessments, penetration testing, and exploit development to secure applications and networks from real-world threats. My expertise spans across multiple programming languages and security tools, allowing me to create efficient, scalable, and secure software solutions.
+
+I am always eager to contribute to open-source projects, share security knowledge, and collaborate with other developers and security researchers. Whether it's **web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques to enhance security and performance.
 
 🚀 My mission is to make the digital world safer, one secure application at a time!
 
 ---
 
 ## **🔹 About Me**
-🔥 Specialized in **Cyber Security & Backend Development**
-🛠 Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**
-🏆 Enthusiastic about **Security Research & Open Source Contributions**
-🎯 Focused on **Secure Web Development and Exploit Research**
-📚 Continuous learner in **Advanced Cybersecurity Techniques & AI-based Security Solutions**
+- 🔥 Specialized in **Cyber Security & Backend Development**
+- 🛠 Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**
+- 🏆 Enthusiastic about **Security Research & Open Source Contributions**
+- 🎯 Focused on **Secure Web Development and Exploit Research**
+- 📚 Continuous learner in **Advanced Cybersecurity Techniques & AI-based Security Solutions**
 
 ---
 
@@ -102,7 +97,7 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 ---
 
 🔥 **Let's connect and collaborate on exciting security projects!** 🚀
-``
+```
 
 <!--# Hi, I am Aayush Shakyawar
 
