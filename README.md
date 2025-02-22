@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer
 passionate about cybersecurity, ethical hacking, and secure software development. With years of experience in
 cybersecurity and backend development, I have a deep understanding of network security, ethical hacking
 methodologies, and secure application development. I specialize in **offensive security**, conducting in-depth
- vulnerability assessments, penetration testing, and exploit development to secure applications and networks
+vulnerability assessments, penetration testing, and exploit development to secure applications and networks
 from real-world threats. My expertise spans across multiple programming languages and security tools, allowing
- me to create efficient, scalable, and secure software solutions. I am always eager to contribute to open-source
- projects, share security knowledge, and collaborate with other developers and security researchers. Whether it's
+me to create efficient, scalable, and secure software solutions. I am always eager to contribute to open-source
+projects, share security knowledge, and collaborate with other developers and security researchers. Whether it's
 **web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques to enhance
 security and performance.
 
