@@ -64,29 +64,11 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 
 ---
 
-## **🔹 Recent Blog Posts**
-📌 [How to Secure Your APIs](https://yourblog.com/api-security)  
-📌 [Top 10 Web Vulnerabilities](https://yourblog.com/top10-vulnerabilities)  
-📌 [Penetration Testing Guide](https://yourblog.com/pentesting-guide)  
-
----
-
 ## **🔹 Contact Me**
-📧 Email: aayushmshakyawar@gmail.com 
-💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/aayushshakyawar)  
-🐦 Twitter: [Your Profile](https://twitter.com/AayushShakyawar)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-
----
-
-## **🔹 Featured Projects**
-| Project Name | Description | Languages | Repo Link |
-|-------------|-------------|------------|------------|
-| **Exploit Finder** | Automated vulnerability scanner & exploit finder | Python, Bash | [GitHub](https://github.com/yourusername/exploit-finder) |
-| **SecureAPI** | A secure backend API template with authentication | Python, Django | [GitHub](https://github.com/yourusername/secureapi) |
-| **Hacker's Toolkit** | Custom scripts & tools for penetration testing | Python, PHP, Bash | [GitHub](https://github.com/yourusername/hackers-toolkit) |
-| **Java Security Suite** | A collection of Java-based security utilities | Java | [GitHub](https://github.com/yourusername/java-security-suite) |
-| **Web Security Framework** | Web security testing toolkit | JavaScript, Node.js | [GitHub](https://github.com/yourusername/web-security-framework) |
+* 📧 Email: aayushmshakyawar@gmail.com
+* 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/aayushshakyawar)  
+* 🐦 Twitter: [Your Profile](https://twitter.com/AayushShakyawar)  
+* 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
 
@@ -104,22 +86,3 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 🔥 **Let's connect and collaborate on exciting security projects!** 🚀
 ```
 
-<!--# Hi, I am Aayush Shakyawar
-
-
-## About
-Hey, My name is aayush shakyawar. I am very Proficient about my work and Their Technology. I am experienced Penetration-Tester and Exploit-Developer with a strong background in cybersecurity and back-end development. Skilled in Python frameworks like Django and Flask, as well as PHP and Laravel, to build secure, efficient, and scalable applications. Proficient in identifying vulnerabilities, developing custom exploits, and enhancing system defenses. Actively engaged in freelancing projects, offering tailored solutions in web development, API integration, and security assessments to meet client needs. Passionate about delivering high-quality work and staying updated on the latest tech trends.-->
-<!--
-**Strengerrr-1234/Strengerrr-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
