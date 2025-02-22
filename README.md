@@ -1,7 +1,7 @@
 ```md
-# **Hi there, I'm Aayush Shakyawar 👋**
+#**Hi there, I'm Aayush Shakyawar 👋**
 
-![Header Image](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Github Image]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbCLbVac5owpOnAdAfjqJqvuvValr5oG8Hl2BCI0Xj1CRB6YZXTMLP8xT6yRCuArfwGM&usqp=CAU))
 
 ## **🔹 Introduction**
 Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer** passionate about cybersecurity, ethical hacking, and secure software development. With years of experience in cybersecurity and backend development, I have a deep understanding of network security, ethical hacking methodologies, and secure application development.
@@ -15,11 +15,11 @@ I am always eager to contribute to open-source projects, share security knowledg
 ---
 
 ## **🔹 About Me**
-- 🔥 Specialized in **Cyber Security & Backend Development**
-- 🛠 Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**
-- 🏆 Enthusiastic about **Security Research & Open Source Contributions**
-- 🎯 Focused on **Secure Web Development and Exploit Research**
-- 📚 Continuous learner in **Advanced Cybersecurity Techniques & AI-based Security Solutions**
+🔥 Specialized in **Cyber Security & Backend Development**
+🛠 Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**
+🏆 Enthusiastic about **Security Research & Open Source Contributions**
+🎯 Focused on **Secure Web Development and Exploit Research**
+📚 Continuous learner in **Advanced Cybersecurity Techniques & AI-based Security Solutions**
 
 ---
 
