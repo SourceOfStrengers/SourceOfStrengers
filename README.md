@@ -67,9 +67,9 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 ---
 
 ## **🔹 Contact Me**
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [Your Profile](https://twitter.com/yourprofile)  
+📧 Email: aayushmshakyawar@gmail.com 
+💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/aayushshakyawar)  
+🐦 Twitter: [Your Profile](https://twitter.com/AayushShakyawar)  
 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 
 ---
