@@ -1,4 +1,5 @@
 ```md
+
 # **Hi there, I'm Aayush Shakyawar 👋**
 
 ![Header Image](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -12,8 +13,8 @@ vulnerability assessments, penetration testing, and exploit development to secur
 from real-world threats. My expertise spans across multiple programming languages and security tools, allowing
 me to create efficient, scalable, and secure software solutions. I am always eager to contribute to open-source
 projects, share security knowledge, and collaborate with other developers and security researchers. Whether it's
-**web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques to enhance
-security and performance.
+**web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques to
+enhance security and performance.
 
 🚀 My mission is to make the digital world safer, one secure application at a time!
 
