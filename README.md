@@ -52,15 +52,15 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 
 ## **🔹 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strengerrr-1234&show_icons=true&theme=blue-green" width="49%" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strengerrr-1234&theme=blue-green" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=SourceOfStrengers&show_icons=true&theme=blue-green" width="49%" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourceOfStrengers&theme=blue-green" width="49%" height="180px">
 </p>
 
 ---
 
 ## **🔹 Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strengerrr-1234&layout=compact&theme=blue-green&langs_count=6" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourceOfStrengers&layout=compact&theme=blue-green&langs_count=6" width="49%" height="180px">
 </p>
 
 ---
