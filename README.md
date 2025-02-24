@@ -53,7 +53,7 @@ Security Tools: OpenVAS, Nessus, Snort, Suricata
 ## **🔹 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SourceOfStrengers&show_icons=true&theme=blue-green" width="49%" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SourceOfStrengers&theme=blue-green" width="49%" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourceOfStrengers&theme=blue-green" width="49%" height="180px">
 </p>
 
 ---
