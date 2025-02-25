@@ -1,47 +1,38 @@
-```md
-
-# **Hi there, I'm Aayush Shakyawar 👋**
+# <span style="color:#00aaff;">🌐 Hi there, I'm Aayush Shakyawar!</span> 👋  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px">
 </p>
 
+---
 
-## **🔹 Introduction**
-Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer**
-passionate about cybersecurity, ethical hacking, and secure software development. With years of experience in
-cybersecurity and backend development, I have a deep understanding of network security, ethical hacking
-methodologies, and secure application development. I specialize in **offensive security**, conducting in-depth
-vulnerability assessments, penetration testing, and exploit development to secure applications and networks
-from real-world threats. My expertise spans across multiple programming languages and security tools, allowing
-me to create efficient, scalable, and secure software solutions. I am always eager to contribute to open-source
-projects, share security knowledge, and collaborate with other developers and security researchers. Whether it's
-**web security**, **API protection**, or **reverse engineering**, I am constantly exploring new techniques to
-enhance security and performance.
-
-🚀 My mission is to make the digital world safer, one secure application at a time!
+## <span style="color:#00aaff;">🔹 Introduction</span>  
+💙 I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer**.  
+💻 I specialize in **cybersecurity, ethical hacking, and secure software development**.  
+🔍 Passionate about **offensive security, vulnerability assessments, and penetration testing**.  
+🚀 Always exploring **web security, API protection, and reverse engineering**.  
 
 ---
 
-## **🔹 About Me**
-- 🔥 Specialized in **Cyber Security & Backend Development**
-- 🛠 Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**
-- 🏆 Enthusiastic about **Security Research & Open Source Contributions**
-- 🎯 Focused on **Secure Web Development and Exploit Research**
-- 📚 Continuous learner in **Advanced Cybersecurity Techniques & AI-based Security Solutions**
+## <span style="color:#00aaff;">🔹 About Me</span>  
+✔ **Cyber Security & Backend Development Specialist**  
+✔ Skilled in **Python, Django, Flask, PHP, Java, JavaScript, SQL, API Security, Linux, and Bash Scripting**  
+✔ Passionate about **Security Research & Open Source Contributions**  
+✔ Focused on **Secure Web Development & Exploit Research**  
+✔ Enthusiastic about **Advanced Cybersecurity & AI-based Security Solutions**  
 
 ---
 
-## **🔹 Services**
-- 🛡 **Penetration Testing & Security Audits**
-- 🔗 **Secure API & Backend Development**
-- 🔍 **Malware Analysis & Reverse Engineering**
-- 🏗 **Custom Security Tools & Scripts**
-- 🌍 **Network Security & Threat Intelligence**
+## <span style="color:#00aaff;">🔹 Services I Offer</span>  
+🔹 **Penetration Testing & Security Audits** – Web, Network & API Security  
+🔹 **Secure Backend Development** – Python, Django, Flask, PHP  
+🔹 **Malware Analysis & Reverse Engineering**  
+🔹 **Custom Security Tools & Scripts**  
+🔹 **Network Security & Threat Intelligence**  
 
 ---
 
-## **🔹 Tech Stack**
+## <span style="color:#00aaff;">🔹 Tech Stack & Tools</span>  
 ```yaml
 Languages: Python, PHP, Java, JavaScript, SQL, Bash
 Frameworks: Django, Flask
