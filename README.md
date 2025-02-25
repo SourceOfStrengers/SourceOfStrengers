@@ -2,7 +2,10 @@
 
 # **Hi there, I'm Aayush Shakyawar 👋**
 
-![Header Image](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px">
+</p>
+
 
 ## **🔹 Introduction**
 Welcome to my GitHub profile! I am a **Penetration Tester**, **Backend Developer**, and **Exploit Developer**
