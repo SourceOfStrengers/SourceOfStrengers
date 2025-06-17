@@ -34,11 +34,11 @@
 
 ## <span style="color:#00aaff;">🔹 Tech Stack & Tools</span>  
 ```yaml
-Languages: Python, PHP, Java, JavaScript, SQL, Bash
-Frameworks: Django, Flask
+Languages: Python, PHP, Java, JavaScript, SQL, Bash, Shell
+Frameworks: Django, Flask, Laravel
 Tools: Burp Suite, Nmap, Metasploit, Wireshark, Kali Linux
-Databases: MySQL, PostgreSQL
-OS: Linux (Kali, Ubuntu), Windows Server
+Databases: PostgreSQL, Sqlite
+OS: Linux (Kali, Ubuntu, Arch), Windows Server
 Security Tools: OpenVAS, Nessus, Snort, Suricata
 ```
 
